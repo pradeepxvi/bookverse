@@ -17,7 +17,7 @@ const TopRelatedBooks = () => {
           <div className="flex justify-between">
             <h1 className="lg:text-4xl  font-bold ">Top Related Books Books</h1>
             <NavLink
-              to="/toprelatedboooks"
+              to="/toprelatedbooks"
               className=" lg:text-3xl font-bold text-violet-500 hover:underline "
             >
               View all
